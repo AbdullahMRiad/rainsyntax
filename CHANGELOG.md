@@ -1,3 +1,6 @@
+# Version 0.0.9
+1. Enhanced Code Section Folding.
+
 # Version 0.0.8
 
 1. Add section folding support for Rainmeter INI files.
